@@ -6,7 +6,7 @@
 
 Bước 1: Mở Discord Desktop App (không dùng bản web/điện thoại)
 
-Bước 2: Nhận Quest: **Discover → Quests → Claim Reward** hoặc vào kênh <#1418929504566378526> 
+Bước 2: Nhận Quest: **Discover → Quests → Claim Reward** 
 
 Bước 3: Bật công cụ DevTools
 - Thử **Ctrl+Shift+I** → nếu mở được thì tiếp tục bước tiếp theo.
