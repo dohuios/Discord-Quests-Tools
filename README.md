@@ -20,6 +20,7 @@ Bước 4: Chạy Script
 
 📌 Lưu ý
 Lưu ý: Đây là cách “lách”, không chính thức từ Discord. Hãy chắc chắn script lấy từ nguồn tin cậy.
+
 [discord_quest_completer.js](https://github.com/dohuios/Discord-Quests-Tools/blob/main/discord_quest_completer.js)
 
 
@@ -39,4 +40,5 @@ sudo chmod +x autodis.sh
 sudo ./autodis.sh
 ```
 <img width="804" height="470" alt="image" src="https://github.com/user-attachments/assets/cabaa0d6-86e3-40da-a1e3-529abd9d985f" />
+
 [autodis.sh](https://github.com/dohuios/Discord-Quests-Tools/blob/main/autodis.sh)
