@@ -20,7 +20,7 @@ Bước 4: Chạy Script
 
 📌 Lưu ý
 Lưu ý: Đây là cách “lách”, không chính thức từ Discord. Hãy chắc chắn script lấy từ nguồn tin cậy.
-[discord_quest_completer.js](https://example.com](https://github.com/dohuios/Discord-Quests-Tools/blob/main/discord_quest_completer.js)
+[discord_quest_completer.js](https://example.com]([https://github.com/dohuios/Discord-Quests-Tools/blob/main/discord_quest_completer.js])
 
 
 
