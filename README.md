@@ -1,5 +1,5 @@
-UPDATE 25/1/2026
-
+# UPDATE 25/1/2026
+# WINDOWS
 
 🌟 Hướng dẫn hoàn thành nhanh Discord Quests
 **Discord Quests**: Nhiệm vụ nhận thưởng (Orbs/Decor) như 🎮 chơi game, 📺 xem video, 🖥️ stream, 🎲 dùng Activity.
