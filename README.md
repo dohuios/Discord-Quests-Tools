@@ -27,21 +27,3 @@ Lưu ý: Đây là cách “lách”, không chính thức từ Discord. Hãy ch
 [discord_quest_completer.js](https://github.com/dohuios/Discord-Quests-Tools/blob/main/discord_quest_completer.js)
 
 
-
-
-
-# Với máy macos 
-
-- **vào đường dẫn sau**
-> `/Library/Application\ Support/discord/`
-- **Thêm dòng này vào file json**
-> `"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true`
-
-## hoặc dùng tool .sh  để bật devtool cho discord
-```
-sudo chmod +x autodis.sh
-sudo ./autodis.sh
-```
-<img width="804" height="470" alt="image" src="https://github.com/user-attachments/assets/cabaa0d6-86e3-40da-a1e3-529abd9d985f" />
-
-[autodis.sh](https://github.com/dohuios/Discord-Quests-Tools/blob/main/autodis.sh)
