@@ -1,4 +1,4 @@
-# UPDATE 25/1/2026
+# UPDATE 2026
 # WINDOWS
 
 🌟 Hướng dẫn hoàn thành nhanh Discord Quests
