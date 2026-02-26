@@ -26,8 +26,6 @@ Lưu ý: Đây là cách “lách”, không chính thức từ Discord. Hãy ch
 
 [discord_quest_completer.js](https://github.com/dohuios/Discord-Quests-Tools/blob/main/discord_quest_completer.js)
 
-# UPDATE 2026/2/26
-# WINDOWS
 
 🌟 Quick Guide to Completing Discord Quests
 **Discord Quests: Reward missions (Orbs/Decor) such as 🎮 playing games, 📺 watching videos, 🖥️ streaming, 🎲 using Activities.
