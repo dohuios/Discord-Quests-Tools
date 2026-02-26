@@ -50,7 +50,7 @@ Step 3: Enable DevTools
 
 Step 4: Run the Script
 
-- Go to the Console tab in DevTools → copy the contents of discord_quest_completer.js → paste into Console → Enter
+- Go to the **Console ** tab in DevTools → copy the contents of `discord_quest_completer.js` → paste into **Console → Enter**
 
 - Wait for the quest to run in the background (Discord will auto-complete) → claim rewards 🎉
 
