@@ -26,4 +26,37 @@ Lưu ý: Đây là cách “lách”, không chính thức từ Discord. Hãy ch
 
 [discord_quest_completer.js](https://github.com/dohuios/Discord-Quests-Tools/blob/main/discord_quest_completer.js)
 
+# UPDATE 2026/2/26
+# WINDOWS
+
+🌟 Quick Guide to Completing Discord Quests
+**Discord Quests: Reward missions (Orbs/Decor) such as 🎮 playing games, 📺 watching videos, 🖥️ streaming, 🎲 using Activities.
+
+🚀 How to “speedrun” Quests using a script (without actually playing/watching/streaming)
+⚠️ This method only works for some Quest types (playing games, streaming, watching videos, Activity).
+
+Step 1: Open the Discord Desktop App (do not use the web/mobile version)
+
+Step 2: Claim the Quest: Discover → Quests → Claim Reward
+
+Step 3: Enable DevTools
+
+- Try **Ctrl+Shift+I** → if it opens, continue to the next step.
+
+- If not:
+
+- Open **Win+R → type** `%APPDATA%\Discord` **→ Enter → open settings.json** and add:
+```"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true```
+
+Step 4: Run the Script
+
+- Go to the Console tab in DevTools → copy the contents of discord_quest_completer.js → paste into Console → Enter
+
+- Wait for the quest to run in the background (Discord will auto-complete) → claim rewards 🎉
+
+📌 Notes
+Note: This is a workaround, not officially supported by Discord. Ensure the script is from a trusted source.
+
+[discord_quest_completer.js](https://github.com/dohuios/Discord-Quests-Tools/blob/main/discord_quest_completer.js)
+
 
