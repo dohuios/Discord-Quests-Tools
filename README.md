@@ -18,7 +18,7 @@ Bước 3: Bật công cụ DevTools
 ```"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true```
 
 Bước 4: Chạy Script
-- Vào tab **Console ** trong DevTools → Copy nội dung file `discord_quest_completer.js` → dán vào **Console → Enter**
+- Vào tab **Console** trong DevTools → Copy nội dung file `discord_quest_completer.js` → dán vào **Console → Enter**
 - Đợi quest đó chạy nền (treo discord tự động hoàn thành) → nhận thưởng  🎉
 
 📌 Lưu ý
@@ -50,7 +50,7 @@ Step 3: Enable DevTools
 
 Step 4: Run the Script
 
-- Go to the **Console ** tab in DevTools → copy the contents of `discord_quest_completer.js` → paste into **Console → Enter**
+- Go to the **Console** tab in DevTools → copy the contents of `discord_quest_completer.js` → paste into **Console → Enter**
 
 - Wait for the quest to run in the background (Discord will auto-complete) → claim rewards 🎉
 
