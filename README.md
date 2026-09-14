@@ -1,9 +1,9 @@
-#⚠️ CẢNH BÁO NẶNG ⚠️
+# ⚠️ CẢNH BÁO NẶNG ⚠️
 Token Discord = mật khẩu cấp cao nhất – ai có token thì control acc hoàn toàn (đổi pass, bật/tắt 2FA, xóa bạn bè, spam...).
 → KHÔNG BAO GIỜ share token, paste vào tool lạ, bot tự chế, webhook... → mất acc vĩnh viễn ngay lập tức!
 Chỉ dùng cho acc của bạn, test cá nhân. Tốt nhất: tạo bot token chính thức tại https://discord.com/developers/applications.
 
-##Cách lấy User Token Discord (update 2026 – vẫn hoạt động)
+## Cách lấy User Token Discord (update 2026 – vẫn hoạt động)
 - PC / Web (Chrome/Edge/Firefox)
 - Mở https://discord.com/app → đăng nhập
 - Nhấn F12 (hoặc Ctrl+Shift+I) → tab Console
