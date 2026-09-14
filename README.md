@@ -13,7 +13,7 @@ Chỉ dùng cho acc của bạn, test cá nhân. Tốt nhất: tạo bot token c
 (() => {
   let token;
   window.webpackChunkdiscord_app.push([[Symbol()], {}, req => {
-    for (let m of Object.values(req.c)) {
+    for (let m of Object.values(req.c || {})) {
       try {
         if (!m.exports || m.exports === window) continue;
         if (m.exports?.getToken) {
