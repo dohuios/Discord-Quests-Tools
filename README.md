@@ -4,6 +4,7 @@ Cách lấy User Token Discord (update 2026 – vẫn hoạt động)
 3- Nhấn F12 (hoặc Ctrl+Shift+I) → tab Console
 4- Dán code này rồi Enter:
 
+```cmd
 (() => {
   let token;
   window.webpackChunkdiscord_app.push([[Symbol()], {}, req => {
