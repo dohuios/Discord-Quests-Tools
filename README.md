@@ -1,8 +1,8 @@
 Cách lấy User Token Discord (update 2026 – vẫn hoạt động)
-1 - PC / Web (Chrome/Edge/Firefox)
-2 - Mở https://discord.com/app → đăng nhập
-3 - Nhấn F12 (hoặc Ctrl+Shift+I) → tab Console
-4 - Dán code này rồi Enter:
+- PC / Web (Chrome/Edge/Firefox)
+- Mở https://discord.com/app → đăng nhập
+- Nhấn F12 (hoặc Ctrl+Shift+I) → tab Console
+- Dán code này rồi Enter:
 
 ```cmd
 (() => {
